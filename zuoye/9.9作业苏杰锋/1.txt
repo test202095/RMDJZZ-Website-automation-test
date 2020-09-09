@@ -1,0 +1,8 @@
+电商系统后台管理登录网址：
+http://39.96.181.61/qftest-ds/index.php?m=backend&c=main&a=index
+管理员账号：
+admin
+管理员密码：
+qftest2019
+电商系统前台地址：
+http://39.96.181.61/qftest-ds/
