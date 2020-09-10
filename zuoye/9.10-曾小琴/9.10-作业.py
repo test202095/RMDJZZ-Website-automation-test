@@ -52,7 +52,7 @@ def login(dr):
     a.send_keys('小仙女')
     dr.find_element_by_id('areaslt-province').click() #所在省
     sleep(3)
-    dr.find_element_by_xpath('//select[@id="areaslt-province"]/option[19]').click() #广东
+    dr.find_element_by_xpath('').click() #广东
     sleep(3)
     dr.find_element_by_id('areaslt-city').click() #所在市
     sleep(2)
