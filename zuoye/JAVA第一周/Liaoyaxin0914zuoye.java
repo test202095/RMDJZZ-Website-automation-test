@@ -2,7 +2,7 @@ package day01lx;
 
 import java.util.Scanner;
 
-public class A01lianxi {
+public class Liaoyaxin0914zuoye{
 
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
